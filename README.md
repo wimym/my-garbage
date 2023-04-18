@@ -1,2 +1,2 @@
 # my-garbage
-一些新手村的code
+> 一些新手村的code
